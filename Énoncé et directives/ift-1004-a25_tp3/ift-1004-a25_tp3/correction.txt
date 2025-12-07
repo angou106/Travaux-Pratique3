@@ -1,0 +1,92 @@
+Numéro d'équipe :
+Lien vers le dépôt GitHub PRIVÉ de votre TP :
+Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (Oui/Non) :
+
+Étudiant 1 :
+    - Nom complet :
+    - Numéro de dossier (NI) :
+    - Estimation du temps de réalisation :
+
+Étudiant 2 :
+    - Nom complet :
+    - Numéro de dossier (NI) :
+    - Estimation du temps de réalisation :
+
+
+Fonctionnalités
+----------------
+
+/15 : Le programme initialise correctement le tableau de mines.
+      Commentaires :
+
+/5 : Le programme affiche le tableau selon l'état de dévoilement des cases
+      Commentaires :
+
+/5 : Le programme valide les coordonnées
+      Commentaires :
+
+/5  : Le programme valide les entrées de l'utilisateur
+      Commentaires :
+
+/5  : Le programme permet de choisir les options de jeu
+      Commentaires :
+
+/20: Le programme implémente l'effet de dévoilement en cascade récursif
+      Commentaires :
+
+/10 : Le programme permet un bon déroulement de la partie
+      Commentaires :
+
+/5 : La partie se termine si le joueur déclenche une mine
+      Commentaires :
+
+/5 : La partie se termine si le joueur a dévoilé toutes les cases sans mine
+      Commentaires :
+
+/10 : Interface graphique fonctionnelle
+      /3 : Le jeu en mode interface graphique s'exécute correctement
+            [ ] Le déroulement du jeu et le dévoilement des cases sont adéquats
+            [ ] On peut configurer la taille du plateau et le nombre de mines
+            [ ] On peut démarrer une nouvelle partie en tout temps
+            [ ] Le bouton quitter est fonctionnel (incluant un message de confirmation)
+            [ ] Un message annonce la victoire/défaite du joueur
+            [ ] La solution est affichée lors d'une défaite
+            [ ] Le jeu n'est plus cliquable lorsque la partie est terminée
+            [ ] La sauvegarde et chargement de la partie sont fonctionnels
+      Commentaires: 
+
+      /1 : Méthode interface_partie.InterfacePartie.nouvelle_partie()
+      Commentaires: 
+
+      /2 : Méthode interface_partie.InterfacePartie.configurer_preset()
+      Commentaires:
+
+      /3 : Méthode interface_partie.InterfacePartie.detecter_fin()
+      Commentaires: 
+
+      /1 : Méthode interface_partie.InterfacePartie.quitter()
+      Commentaires: 
+
+/10 : Respect de la décomposition fonctionnelle demandée
+      Commentaires :
+
+/2 : Qualité du code (noms de variables, style, commentaires, documentation)
+      Commentaires :
+
+
+-------
+
+/3: Lien du dépôt GitHub PRIVÉ présent et démontrant l'utilisation de Git
+    Commentaires:
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+Total : /100
